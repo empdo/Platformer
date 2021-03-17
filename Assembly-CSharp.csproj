@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\projectile.cs" />
+     <Compile Include="Assets\LineDrawer.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/emil/Unity/Hub/Editor/2021.1.0b11/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
